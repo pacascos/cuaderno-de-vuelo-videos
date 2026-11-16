@@ -1,0 +1,172 @@
+{
+ "videos": [
+  {
+   "id": "concepto-050-2",
+   "titulo": "Baches con el cielo despejado",
+   "categoria": {
+    "codigo": "050",
+    "nombre": "Meteorología"
+   },
+   "descripcion": "Cielo azul, ni una nube, y el café de Capi acaba en su bigote. ¿Cómo puede haber baches si en el cielo no hay nada?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "turbulencias",
+    "aprendeentiktok"
+   ],
+   "duracion": 75.9,
+   "fecha": 1794772320,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7708488617433337110",
+   "video": "concepto-050-2.mp4",
+   "portada": "concepto-050-2.jpg"
+  },
+  {
+   "id": "concepto-032-2",
+   "titulo": "Un avión que esquía sobre el agua",
+   "categoria": {
+    "codigo": "032",
+    "nombre": "Performance"
+   },
+   "descripcion": "Llueve, Capi frena a fondo y el avión sigue de paseo. ¿A partir de qué velocidad se pone a esquiar sobre el agua?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "hidroplaneo",
+    "aprendeentiktok"
+   ],
+   "duracion": 88.3,
+   "fecha": 1794733200,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7708321888354733334",
+   "video": "concepto-032-2.mp4",
+   "portada": "concepto-032-2.jpg"
+  },
+  {
+   "id": "concepto-010-1",
+   "titulo": "La frontera de los 10 000 pies",
+   "categoria": {
+    "codigo": "010",
+    "nombre": "Derecho aéreo"
+   },
+   "descripcion": "Por debajo de 10 000 pies, el avión no pasa de 250 nudos y en cabina no se habla de la cena. ¿Por qué?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "cabinaesteril",
+    "aprendeentiktok"
+   ],
+   "duracion": 83.5,
+   "fecha": 1794646800,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707950465366904086",
+   "video": "concepto-010-1.mp4",
+   "portada": "concepto-010-1.jpg"
+  },
+  {
+   "id": "concepto-070-2",
+   "titulo": "Lo que deja un avión grande en el aire",
+   "categoria": {
+    "codigo": "070",
+    "nombre": "Procedimientos operacionales"
+   },
+   "descripcion": "El avión grande ya ha pasado. ¿Por qué nos dejan 9 km detrás de él?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "estelaturbulenta",
+    "aprendeentiktok"
+   ],
+   "duracion": 88.7,
+   "fecha": 1794594600,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707726013056158999",
+   "video": "concepto-070-2.mp4",
+   "portada": "concepto-070-2.jpg"
+  },
+  {
+   "id": "concepto-040-2",
+   "titulo": "Por qué duelen los oídos al bajar",
+   "categoria": {
+    "codigo": "040",
+    "nombre": "Factores humanos"
+   },
+   "descripcion": "Al subir en avión, los oídos se destapan solos. Al bajar, duelen. ¿Por qué?",
+   "etiquetas": [
+    "aviacion",
+    "oidos",
+    "piloto",
+    "ATPL",
+    "aprendeentiktok"
+   ],
+   "duracion": 80.2,
+   "fecha": 1794557100,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707564120505257218",
+   "video": "concepto-040-2.mp4",
+   "portada": "concepto-040-2.jpg"
+  },
+  {
+   "id": "concepto-070-1",
+   "titulo": "Si el TCAS y el controlador no coinciden (el RA manda)",
+   "categoria": {
+    "codigo": "070",
+    "nombre": "Procedimientos operacionales"
+   },
+   "descripcion": "El controlador dice «baje» y la máquina anticolisión, «suba». ¿A quién hace caso el piloto?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "TCAS",
+    "aprendeentiktok"
+   ],
+   "duracion": 76.9,
+   "fecha": 1794477780,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707224192051072278",
+   "video": "concepto-070-1.mp4",
+   "portada": "concepto-070-1.jpg"
+  },
+  {
+   "id": "concepto-081-1",
+   "titulo": "El colchón de aire de la pista (efecto suelo)",
+   "categoria": {
+    "codigo": "081",
+    "nombre": "Principios de vuelo"
+   },
+   "descripcion": "¿Existe el colchón de aire que hace flotar a un avión justo antes de tocar la pista? Dos manuales oficiales no se ponen de acuerdo. Turbo lo comprueba.",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "ciencia",
+    "aprendeentiktok"
+   ],
+   "duracion": 77.3,
+   "fecha": 1794467969,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707181202272242966",
+   "video": "concepto-081-1.mp4",
+   "portada": "concepto-081-1.jpg"
+  },
+  {
+   "id": "concepto-050-1",
+   "titulo": "Agua líquida a diez bajo cero",
+   "categoria": {
+    "codigo": "050",
+    "nombre": "Meteorología"
+   },
+   "descripcion": "¿De qué está hecha una nube a 5 bajo cero? Dani apuesta un café a que es nieve.",
+   "etiquetas": [
+    "aviacion",
+    "pilotos",
+    "ciencia",
+    "meteorologia",
+    "aprendeentiktok"
+   ],
+   "duracion": 67.9,
+   "fecha": 1794447010,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7707091111017205014",
+   "video": "concepto-050-1.mp4",
+   "portada": "concepto-050-1.jpg"
+  }
+ ]
+}
