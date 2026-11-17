@@ -1,6 +1,27 @@
 {
  "videos": [
   {
+   "id": "concepto-070-3",
+   "titulo": "La correa invisible del bimotor: por qué casi no se cruza la Antártida",
+   "categoria": {
+    "codigo": "070",
+    "nombre": "Procedimientos operacionales"
+   },
+   "descripcion": "Miras el mapa de vuelos y por la Antártida casi no pasa nadie. Capi dice que Turbo lleva una correa invisible. ¿Qué correa?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "antartida",
+    "aprendeentiktok"
+   ],
+   "duracion": 89.8,
+   "fecha": 1794906000,
+   "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7709063289422007574",
+   "video": "concepto-070-3.mp4",
+   "portada": "concepto-070-3.jpg"
+  },
+  {
    "id": "concepto-061-1",
    "titulo": "El avión que aterriza de lado (viento cruzado: cangrejo y enderezado)",
    "categoria": {
@@ -41,27 +62,6 @@
    "tiktok": "https://www.tiktok.com/@cuaderno.de.vuelo/video/7708730526898703638",
    "video": "concepto-031-1.mp4",
    "portada": "concepto-031-1.jpg"
-  },
-  {
-   "id": "concepto-070-3",
-   "titulo": "La correa invisible del bimotor: por qué casi no se cruza la Antártida",
-   "categoria": {
-    "codigo": "070",
-    "nombre": "Procedimientos operacionales"
-   },
-   "descripcion": "Miras el mapa de vuelos y por la Antártida casi no pasa nadie. Capi dice que Turbo lleva una correa invisible. ¿Qué correa?",
-   "etiquetas": [
-    "aviacion",
-    "piloto",
-    "ATPL",
-    "antartida",
-    "aprendeentiktok"
-   ],
-   "duracion": 89.8,
-   "fecha": 1794818556,
-   "tiktok": null,
-   "video": "concepto-070-3.mp4",
-   "portada": "concepto-070-3.jpg"
   },
   {
    "id": "concepto-050-2",
