@@ -1,6 +1,69 @@
 {
  "videos": [
   {
+   "id": "concepto-090-1",
+   "titulo": "MAYDAY o PAN PAN",
+   "categoria": {
+    "codigo": "090",
+    "nombre": "Comunicaciones"
+   },
+   "descripcion": "Un pasajero se pone malo y Dani agarra el micro para gritar MAYDAY. Capi lo frena. ¿Esto es MAYDAY o PAN PAN?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "mayday",
+    "aprendeentiktok"
+   ],
+   "duracion": 87.4,
+   "fecha": 1795637316,
+   "tiktok": null,
+   "video": "concepto-090-1.mp4",
+   "portada": "concepto-090-1.jpg"
+  },
+  {
+   "id": "concepto-090-2",
+   "titulo": "El 7500, el número que pide ayuda sin hablar",
+   "categoria": {
+    "codigo": "090",
+    "nombre": "Comunicaciones"
+   },
+   "descripcion": "Un avión marca 7500 y la controladora pregunta. Por radio, ni un carraspeo. ¿Dedo torpe o va en serio?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "controladoraerea",
+    "aprendeentiktok"
+   ],
+   "duracion": 65.6,
+   "fecha": 1795637316,
+   "tiktok": null,
+   "video": "concepto-090-2.mp4",
+   "portada": "concepto-090-2.jpg"
+  },
+  {
+   "id": "concepto-010-2",
+   "titulo": "Por qué el avión da vueltas antes de aterrizar",
+   "categoria": {
+    "codigo": "010",
+    "nombre": "Derecho aéreo"
+   },
+   "descripcion": "El avión da vueltas sobre el aeropuerto y un pasajero empieza a contarlas. ¿Queda combustible para tanta vuelta?",
+   "etiquetas": [
+    "aviacion",
+    "piloto",
+    "ATPL",
+    "avion",
+    "aprendeentiktok"
+   ],
+   "duracion": 41.2,
+   "fecha": 1795637315,
+   "tiktok": null,
+   "video": "concepto-010-2.mp4",
+   "portada": "concepto-010-2.jpg"
+  },
+  {
    "id": "concepto-081-2",
    "titulo": "El ala que se abre antes de aterrizar (flaps y slats)",
    "categoria": {
